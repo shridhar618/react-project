@@ -1,0 +1,27 @@
+table{
+  height: 300px;
+  width: 500px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 300px;
+  margin-top: 200px;
+}
+
+
+th{
+  background-color:rgb(130, 162, 189);
+  color: green;
+  font-size: large;
+  font: 1em sans-serif;
+  border-radius: 5%;
+}
+
+tr{
+  color: blue;
+  background-color: bisque;
+}
+
+.center{
+  justify-content: center;
+  align-items: center;
+}
