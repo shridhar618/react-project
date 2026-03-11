@@ -1,4 +1,4 @@
-table{
+/* table{
   height: 300px;
   width: 500px;
   align-items: center;
@@ -22,7 +22,7 @@ tr{
   background-color: bisque;
 } */
 
-.center{
+/* .center{
   justify-content: center;
   align-items: center;
-}
+} */ 
