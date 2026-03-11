@@ -5,10 +5,11 @@ table{
   justify-content: center;
   margin-left: 300px;
   margin-top: 200px;
+  background: linear-gradient(gold,yellow);
 }
 
 
-th{
+/* th{
   background-color:rgb(130, 162, 189);
   color: green;
   font-size: large;
@@ -19,7 +20,7 @@ th{
 tr{
   color: blue;
   background-color: bisque;
-}
+} */
 
 .center{
   justify-content: center;

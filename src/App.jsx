@@ -154,6 +154,25 @@ function App() {
     <td>36</td>
   </tr>
 </table>
+
+<table border="border">
+    <caption>The align and valign attributes</caption>
+    <tr align="center">
+      <th></th>
+      <th>Column Label</th>
+      <th>Another One</th>
+      <th>Still Another One</th>
+    </tr>
+
+    <tr>
+      <th>align</th>
+      <td align="left" >Left</td>
+      <td align="ceter" >Center</td>
+      <td align="right" >Right</td>
+    </tr>
+</table>
+
+
 </div>
 
 
