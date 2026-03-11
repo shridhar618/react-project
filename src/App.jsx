@@ -170,7 +170,17 @@ function App() {
       <td align="ceter" >Center</td>
       <td align="right" >Right</td>
     </tr>
+
+
+    <tr>
+      <th><br />valign <br />  </th>
+      <td>Default</td>
+      <td valign="top">Top</td>
+      <td valign='bottom'>Bottom</td>
+    </tr>
 </table>
+
+
 
 
 </div>
