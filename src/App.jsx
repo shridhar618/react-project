@@ -180,6 +180,26 @@ function App() {
     </tr>
 </table>
 
+<table border='2'>
+  <td rowspan='2'>
+    <table border='1'>
+      <tr>
+      <th>11</th>
+      
+      <th>12</th>
+      </tr>
+
+      
+      <tr>
+        <td>13</td>
+        <td>14</td>
+      </tr>
+
+
+    </table>
+  </td>
+</table>
+
 
 
 
