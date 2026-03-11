@@ -259,6 +259,35 @@ function App() {
 </ol>
 
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>hhhff</th>
+      <th>fdgg</th>
+      <th>sffdf</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>Row1</td>
+      <td>Row1</td>
+      <td>Row1</td>
+    </tr>
+
+    <tr>
+      <td>Row2</td>
+      <td>Row2</td>
+      <td>Row2</td>
+    </tr>
+  </tbody>
+  
+  <tfoot>
+    <td colspan='3'>this is footer</td>
+  </tfoot>
+</table>
+
+
 </div>
 
 
