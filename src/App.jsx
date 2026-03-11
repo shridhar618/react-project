@@ -191,7 +191,7 @@ function App() {
 
       
       <tr>
-        <td>13</td>
+        <td rowspan='2'>13</td>
         <td>14</td>
       </tr>
 
