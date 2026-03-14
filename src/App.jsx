@@ -291,6 +291,12 @@ function App() {
 </div>
 
 
+<form action="">
+  <label htmlFor="">Write here</label>
+  <input type="text" />
+</form>
+
+
 
 
     </>
